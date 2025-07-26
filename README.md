@@ -200,3 +200,7 @@ If you encounter issues:
 ---
 
 **Happy coding!** 🚀
+
+---
+🛠️ Forked by CCC AI camper La Shara Cordero to learn and experiment with Bedrock scripting. Applying examples to real-world civic tech and court use cases.
+
